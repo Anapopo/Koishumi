@@ -1,10 +1,3 @@
----
-title: 「MoriColor」一款移植自 Typecho 的 Hexo 主题
-date: 2018-04-21 22:24:18
-thumbnail: https://i.loli.net/2018/04/21/5adb51d4cf633.png
-tags:
-- hexo
----
 最近看到一款 Typecho 主题 [Moricolor](https://github.com/txperl/Moricolor-for-Typecho) ，很是喜欢，但我的博客是基于 Hexo 构建的，自然是不能通用的，于是学习了一下 Hexo 主题开发，简单地制作了这个主题样式的 Hexo 版本。
 
 <!-- more -->

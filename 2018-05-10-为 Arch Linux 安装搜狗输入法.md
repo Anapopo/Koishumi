@@ -1,10 +1,3 @@
----
-title: 为 Arch Linux 安装搜狗输入法
-date: 2018-05-10 18:23:10
-thumbnail: https://i.loli.net/2018/05/10/5af418e08c961.png
-tags:
-- archlinux
----
 折腾过「Ibus」，受不了「Ibus」丑陋的界面，最后还是滚回了「Fcitx」，因为皮肤实在是太好看了~\(≧▽≦)/~啦啦啦。
 
 <!-- more -->

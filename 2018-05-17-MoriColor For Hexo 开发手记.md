@@ -1,9 +1,3 @@
----
-title: MoriColor-For-Hexo 开发手记
-date: 2018-05-17 23:03:47
-tags:
-- theme
----
 这里记载了 `MoriColor For Hexo` 的详细参数、开发日志和感谢列表等。
 {% ruby 超電磁砲|レールガン %}
 

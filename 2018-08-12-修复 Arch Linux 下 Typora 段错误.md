@@ -1,11 +1,3 @@
----
-title: 修复 Arch Linux 下 Typora 段错误
-date: 2018-08-12 19:30:42
-thumbnail:
-tags:
-- archlinux
-- typora
----
 ### 段错误问题
 
 你是一名资深的 Arch Linux 用户，你喜欢经常更新系统。

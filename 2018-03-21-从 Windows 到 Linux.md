@@ -1,9 +1,3 @@
----
-title: 从 Windows 到 Linux
-date: 2018-03-21 18:03:36
-tags:
- - linux
----
 ## 引言
 > 于2018.04.15 转投「ArchLinux」+ 「KDE」怀抱了。
 

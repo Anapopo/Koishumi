@@ -1,9 +1,3 @@
----
-title: 「Arch Linux」配置之磁盘分区
-date: 2018-04-11 21:24:01
-tags:
-- archlinux
----
 这是一篇 「GNU/Linux」 新手的 「Arch Linux」 磁盘分区完全指南。
 
 <!-- more -->
